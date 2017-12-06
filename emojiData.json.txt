@@ -1,0 +1,1837 @@
+{	"emoji1" : {
+		"name" : "ant_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/ant_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 1
+	},
+	"emoji2" : {
+		"name" : "Baby_chick_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/Baby_chick_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 2
+	},
+	"emoji3" : {
+		"name" : "Baby_Chick",
+			"location" : "Emoji/Animals/Baby_Chick_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 3
+	},
+	"emoji4" : {
+		"name" : "Bear_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/Bear_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 4
+	},
+	"emoji5" : {
+		"name" : "Boar_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/Boar_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 5
+	},
+	"emoji6" : {
+		"name" : "Camel",
+			"location" : "Emoji/Animals/Camel_Emoji_PNG_large.png",
+			"category" : "Animals",
+			"id" : 6
+	},
+	"emoji7" : {
+		"name" : "Caterpie_Bug",
+			"location" : "Emoji/Animals/Caterpie_Bug_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 7
+	},
+	"emoji8" : {
+		"name" : "CAT_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/CAT_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 8
+	},
+	"emoji9" : {
+		"name" : "chicken_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/chicken_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 9
+	},
+	"emoji10" : {
+		"name" : "Cow_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/Cow_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 10
+	},
+	"emoji11" : {
+		"name" : "Dog",
+			"location" : "Emoji/Animals/Dog_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 11
+	},
+	"emoji12" : {
+		"name" : "Dolphin",
+			"location" : "Emoji/Animals/Dolphin_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 12
+	},
+	"emoji13" : {
+		"name" : "Elephant",
+			"location" : "Emoji/Animals/Elephant_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 13
+	},
+	"emoji14" : {
+		"name" : "Emoji_Chestnut_PNG_large.png",
+			"location" : "Emoji/Animals/Emoji_Chestnut_PNG_large.png",
+			"category" : "Animals",
+			"id" : 14
+	},
+	"emoji15" : {
+		"name" : "Emoji_Dog_PNG_large.png",
+			"location" : "Emoji/Animals/Emoji_Dog_PNG_large.png",
+			"category" : "Animals",
+			"id" : 15
+	},
+	"emoji16" : {
+		"name" : "Emoji_Spiral_Shell_PNG_large.png",
+			"location" : "Emoji/Animals/Emoji_Spiral_Shell_PNG_large.png",
+			"category" : "Animals",
+			"id" : 16
+	},
+	"emoji17" : {
+		"name" : "Fish_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/Fish_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 17
+	},
+	"emoji18" : {
+		"name" : "FROG_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/FROG_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 18
+	},
+	"emoji19" : {
+		"name" : "Grey_Bird",
+			"location" : "Emoji/Animals/Grey_Bird_Emoji_PNG_large.png",
+			"category" : "Animals",
+			"id" : 19
+	},
+	"emoji20" : {
+		"name" : "Hatching_Chick",
+			"location" : "Emoji/Animals/Hatching_Chick_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 20
+	},
+	"emoji21" : {
+		"name" : "Hear_No_Evil_Monkey",
+			"location" : "Emoji/Animals/Hear_No_Evil_Monkey_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 21
+	},
+	"emoji22" : {
+		"name" : "honeybee_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/honeybee_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 22
+	},
+	"emoji23" : {
+		"name" : "Horse_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/Horse_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 23
+	},
+	"emoji24" : {
+		"name" : "koala_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/koala_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 24
+	},
+	"emoji25" : {
+		"name" : "Lady_beetle_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/Lady_beetle_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 25
+	},
+	"emoji26" : {
+		"name" : "Monkey",
+			"location" : "Emoji/Animals/Monkey_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 26
+	},
+	"emoji27" : {
+		"name" : "Monkey_Face",
+			"location" : "Emoji/Animals/Monkey_Face_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 27
+	},
+	"emoji28" : {
+		"name" : "Mushroom_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/Mushroom_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 28
+	},
+	"emoji29" : {
+		"name" : "Octopus",
+			"location" : "Emoji/Animals/Octopus_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 29
+	},
+	"emoji30" : {
+		"name" : "Panda_Face",
+			"location" : "Emoji/Animals/Panda_Face_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 30
+	},
+	"emoji31" : {
+		"name" : "Penguin_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/Penguin_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 31
+	},
+	"emoji32" : {
+		"name" : "Pig",
+			"location" : "Emoji/Animals/Pig_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 32
+	},
+	"emoji33" : {
+		"name" : "Pig_Nose",
+			"location" : "Emoji/Animals/Pig_Nose_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 33
+	},
+	"emoji34" : {
+		"name" : "Poodle_Dog",
+			"location" : "Emoji/Animals/Poodle_Dog_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 34
+	},
+	"emoji35" : {
+		"name" : "Rabbit_Face",
+			"location" : "Emoji/Animals/Rabbit_Face_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 35
+	},
+	"emoji36" : {
+		"name" : "See_No_Evil_Monkey",
+			"location" : "Emoji/Animals/See_No_Evil_Monkey_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 36
+	},
+	"emoji37" : {
+		"name" : "Sheep",
+			"location" : "Emoji/Animals/Sheep_Emoji_Icon_1e44804e-21ef-43c2-a78d-f6500f6c87c0_large.png",
+			"category" : "Animals",
+			"id" : 37
+	},
+	"emoji38" : {
+		"name" : "Snake",
+			"location" : "Emoji/Animals/Snake_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 38
+	},
+	"emoji39" : {
+		"name" : "Speak_No_Evil_Monkey",
+			"location" : "Emoji/Animals/Speak_No_Evil_Monkey_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 39
+	},
+	"emoji40" : {
+		"name" : "Spouting_Whale",
+			"location" : "Emoji/Animals/Spouting_Whale_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 40
+	},
+	"emoji41" : {
+		"name" : "tiger_emoji_icon_png_large.png",
+			"location" : "Emoji/Animals/tiger_emoji_icon_png_large.png",
+			"category" : "Animals",
+			"id" : 41
+	},
+	"emoji42" : {
+		"name" : "Tropical_Fish",
+			"location" : "Emoji/Animals/Tropical_Fish_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 42
+	},
+	"emoji43" : {
+		"name" : "Turtle",
+			"location" : "Emoji/Animals/Turtle_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 43
+	},
+	"emoji44" : {
+		"name" : "Unicorn",
+			"location" : "Emoji/Animals/Unicorn_Emoji_large.png",
+			"category" : "Animals",
+			"id" : 44
+	},
+	"emoji45" : {
+		"name" : "Wold_Face",
+			"location" : "Emoji/Animals/Wold_Face_Emoji_Icon_in_PNG_large.png",
+			"category" : "Animals",
+			"id" : 45
+	},
+	"emoji46" : {
+		"name" : "Alien",
+			"location" : "Emoji/Faces/Alien_Emoji_f0027b91-51fa-4232-a392-44e6cd8dd10f_large.png",
+			"category" : "Faces",
+			"id" : 46
+	},
+	"emoji47" : {
+		"name" : "Angry_Devil",
+			"location" : "Emoji/Faces/Angry_Devil_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 47
+	},
+	"emoji48" : {
+		"name" : "Angry",
+			"location" : "Emoji/Faces/Angry_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 48
+	},
+	"emoji49" : {
+		"name" : "Anguished_Face",
+			"location" : "Emoji/Faces/Anguished_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 49
+	},
+	"emoji50" : {
+		"name" : "Astonished_Face",
+			"location" : "Emoji/Faces/Astonished_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 50
+	},
+	"emoji51" : {
+		"name" : "Blow_Kiss",
+			"location" : "Emoji/Faces/Blow_Kiss_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 51
+	},
+	"emoji52" : {
+		"name" : "Cold_Sweat",
+			"location" : "Emoji/Faces/Cold_Sweat_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 52
+	},
+	"emoji53" : {
+		"name" : "Confounded_Face",
+			"location" : "Emoji/Faces/Confounded_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 53
+	},
+	"emoji54" : {
+		"name" : "Confused_Face",
+			"location" : "Emoji/Faces/Confused_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 54
+	},
+	"emoji55" : {
+		"name" : "Crying_Face",
+			"location" : "Emoji/Faces/Crying_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 55
+	},
+	"emoji56" : {
+		"name" : "Disappointed_but_Relieved_Face",
+			"location" : "Emoji/Faces/Disappointed_but_Relieved_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 56
+	},
+	"emoji57" : {
+		"name" : "Disappointed_Face",
+			"location" : "Emoji/Faces/Disappointed_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 57
+	},
+	"emoji58" : {
+		"name" : "Dizzy_Face",
+			"location" : "Emoji/Faces/Dizzy_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 58
+	},
+	"emoji59" : {
+		"name" : "Emoji_Face_without_Mouth_large.png",
+			"location" : "Emoji/Faces/Emoji_Face_without_Mouth_large.png",
+			"category" : "Faces",
+			"id" : 59
+	},
+	"emoji60" : {
+		"name" : "Expressionless_Face",
+			"location" : "Emoji/Faces/Expressionless_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 60
+	},
+	"emoji61" : {
+		"name" : "Face_with_Cold_Sweat",
+			"location" : "Emoji/Faces/Face_with_Cold_Sweat_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 61
+	},
+	"emoji62" : {
+		"name" : "Face_With_Head-Bandage",
+			"location" : "Emoji/Faces/Face_With_Head-Bandage_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 62
+	},
+	"emoji63" : {
+		"name" : "Face_With_Rolling_Eyes",
+			"location" : "Emoji/Faces/Face_With_Rolling_Eyes_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 63
+	},
+	"emoji64" : {
+		"name" : "Face_With_Thermometer",
+			"location" : "Emoji/Faces/Face_With_Thermometer_Emoji_3fd8698c-4243-42cb-ade3-996773b4529c_large.png",
+			"category" : "Faces",
+			"id" : 64
+	},
+	"emoji65" : {
+		"name" : "Fearful_Face",
+			"location" : "Emoji/Faces/Fearful_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 65
+	},
+	"emoji66" : {
+		"name" : "Flushed_Face",
+			"location" : "Emoji/Faces/Flushed_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 66
+	},
+	"emoji67" : {
+		"name" : "Frowning_Face_with_Open_Mouth",
+			"location" : "Emoji/Faces/Frowning_Face_with_Open_Mouth_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 67
+	},
+	"emoji68" : {
+		"name" : "Ghost",
+			"location" : "Emoji/Faces/Ghost_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 68
+	},
+	"emoji69" : {
+		"name" : "Grinmacing_Face",
+			"location" : "Emoji/Faces/Grinmacing_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 69
+	},
+	"emoji70" : {
+		"name" : "Grinning",
+			"location" : "Emoji/Faces/Grinning_Emoji_with_Smiling_Eyes_large.png",
+			"category" : "Faces",
+			"id" : 70
+	},
+	"emoji71" : {
+		"name" : "Heart_Eyes",
+			"location" : "Emoji/Faces/Heart_Eyes_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 71
+	},
+	"emoji72" : {
+		"name" : "Hugging_Face",
+			"location" : "Emoji/Faces/Hugging_Face_Emoji_2028ce8b-c213-4d45-94aa-21e1a0842b4d_large.png",
+			"category" : "Faces",
+			"id" : 72
+	},
+	"emoji73" : {
+		"name" : "Hungry_Face",
+			"location" : "Emoji/Faces/Hungry_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 73
+	},
+	"emoji74" : {
+		"name" : "Hushed_Face",
+			"location" : "Emoji/Faces/Hushed_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 74
+	},
+	"emoji75" : {
+		"name" : "Kissing_Face",
+			"location" : "Emoji/Faces/Kissing_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 75
+	},
+	"emoji76" : {
+		"name" : "Kissing_Face_with_Smiling_Eyes",
+			"location" : "Emoji/Faces/Kissing_Face_with_Smiling_Eyes_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 76
+	},
+	"emoji77" : {
+		"name" : "Kiss",
+			"location" : "Emoji/Faces/Kiss_Emoji_with_Closed_Eyes_large.png",
+			"category" : "Faces",
+			"id" : 77
+	},
+	"emoji78" : {
+		"name" : "Loudly_Crying_Face",
+			"location" : "Emoji/Faces/Loudly_Crying_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 78
+	},
+	"emoji79" : {
+		"name" : "Money_Face",
+			"location" : "Emoji/Faces/Money_Face_Emoji_b26670f3-2d57-42f5-9003-f1a1ee3257c6_large.png",
+			"category" : "Faces",
+			"id" : 79
+	},
+	"emoji80" : {
+		"name" : "Nerd_with_Glasses",
+			"location" : "Emoji/Faces/Nerd_with_Glasses_Emoji_2a8485bc-f136-4156-9af6-297d8522d8d1_large.png",
+			"category" : "Faces",
+			"id" : 80
+	},
+	"emoji81" : {
+		"name" : "Neutral_Face",
+			"location" : "Emoji/Faces/Neutral_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 81
+	},
+	"emoji82" : {
+		"name" : "OMG_Face",
+			"location" : "Emoji/Faces/OMG_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 82
+	},
+	"emoji83" : {
+		"name" : "Persevering_Face",
+			"location" : "Emoji/Faces/Persevering_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 83
+	},
+	"emoji84" : {
+		"name" : "Poop",
+			"location" : "Emoji/Faces/Poop_Emoji_7b204f05-eec6-4496-91b1-351acc03d2c7_large.png",
+			"category" : "Faces",
+			"id" : 84
+	},
+	"emoji85" : {
+		"name" : "Relieved",
+			"location" : "Emoji/Faces/Relieved_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 85
+	},
+	"emoji86" : {
+		"name" : "Sad_Face",
+			"location" : "Emoji/Faces/Sad_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 86
+	},
+	"emoji87" : {
+		"name" : "Shyly_Smiling_Face",
+			"location" : "Emoji/Faces/Shyly_Smiling_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 87
+	},
+	"emoji88" : {
+		"name" : "Sick",
+			"location" : "Emoji/Faces/Sick_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 88
+	},
+	"emoji89" : {
+		"name" : "Sleeping",
+			"location" : "Emoji/Faces/Sleeping_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 89
+	},
+	"emoji90" : {
+		"name" : "Sleeping_with_Snoring",
+			"location" : "Emoji/Faces/Sleeping_with_Snoring_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 90
+	},
+	"emoji91" : {
+		"name" : "Slightly_Smiling_Face",
+			"location" : "Emoji/Faces/Slightly_Smiling_Face_Emoji_87fdae9b-b2af-4619-a37f-e484c5e2e7a4_large.png",
+			"category" : "Faces",
+			"id" : 91
+	},
+	"emoji92" : {
+		"name" : "Smiling_Devil",
+			"location" : "Emoji/Faces/Smiling_Devil_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 92
+	},
+	"emoji93" : {
+		"name" : "Smiling",
+			"location" : "Emoji/Faces/Smiling_Emoji_with_Eyes_Opened_large.png",
+			"category" : "Faces",
+			"id" : 93
+	},
+	"emoji94" : {
+		"name" : "Smiling",
+			"location" : "Emoji/Faces/Smiling_Emoji_with_Smiling_Eyes_large.png",
+			"category" : "Faces",
+			"id" : 94
+	},
+	"emoji95" : {
+		"name" : "Smiling_Face",
+			"location" : "Emoji/Faces/Smiling_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 95
+	},
+	"emoji96" : {
+		"name" : "Smiling_Face",
+			"location" : "Emoji/Faces/Smiling_Face_Emoji_with_Blushed_Cheeks_large.png",
+			"category" : "Faces",
+			"id" : 96
+	},
+	"emoji97" : {
+		"name" : "Smiling_Face_with_Halo_large.png",
+			"location" : "Emoji/Faces/Smiling_Face_with_Halo_large.png",
+			"category" : "Faces",
+			"id" : 97
+	},
+	"emoji98" : {
+		"name" : "Smiling_Face_with_Tightly_Closed_eyes_large.png",
+			"location" : "Emoji/Faces/Smiling_Face_with_Tightly_Closed_eyes_large.png",
+			"category" : "Faces",
+			"id" : 98
+	},
+	"emoji99" : {
+		"name" : "Smiling_with_Sweat",
+			"location" : "Emoji/Faces/Smiling_with_Sweat_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 99
+	},
+	"emoji100" : {
+		"name" : "Smirk_Face",
+			"location" : "Emoji/Faces/Smirk_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 100
+	},
+	"emoji101" : {
+		"name" : "Sunglasses",
+			"location" : "Emoji/Faces/Sunglasses_Emoji_be26cc0a-eef9-49e5-8da2-169bb417cc0b_large.png",
+			"category" : "Faces",
+			"id" : 101
+	},
+	"emoji102" : {
+		"name" : "Surprised_Face",
+			"location" : "Emoji/Faces/Surprised_Face_Emoji_7113e110-82a7-493a-9bb1-7bdca77a661a_large.png",
+			"category" : "Faces",
+			"id" : 102
+	},
+	"emoji103" : {
+		"name" : "Tears_of_Joy",
+			"location" : "Emoji/Faces/Tears_of_Joy_Emoji_8afc0e22-e3d4-4b07-be7f-77296331c687_large.png",
+			"category" : "Faces",
+			"id" : 103
+	},
+	"emoji104" : {
+		"name" : "Thinking_Face",
+			"location" : "Emoji/Faces/Thinking_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 104
+	},
+	"emoji105" : {
+		"name" : "Tired_Face",
+			"location" : "Emoji/Faces/Tired_Face_Emoji_a5bdf862-1509-419f-9e2a-c9208ae1938b_large.png",
+			"category" : "Faces",
+			"id" : 105
+	},
+	"emoji106" : {
+		"name" : "Tongue_Out",
+			"location" : "Emoji/Faces/Tongue_Out_Emoji_d97a3d11-d4f0-440f-b33f-3ab99cfa5173_large.png",
+			"category" : "Faces",
+			"id" : 106
+	},
+	"emoji107" : {
+		"name" : "Tongue_Out",
+			"location" : "Emoji/Faces/Tongue_Out_Emoji_with_Tightly_Closed_Eyes_6ede74f1-0017-45cb-8030-114298f60f5f_large.png",
+			"category" : "Faces",
+			"id" : 107
+	},
+	"emoji108" : {
+		"name" : "Tongue_Out",
+			"location" : "Emoji/Faces/Tongue_Out_Emoji_with_Winking_Eye_876290ec-609b-498e-84ae-b195218ea438_large.png",
+			"category" : "Faces",
+			"id" : 108
+	},
+	"emoji109" : {
+		"name" : "Unamused_Face",
+			"location" : "Emoji/Faces/Unamused_Face_Emoji_761d8bf8-c78c-45b1-80b1-a86a80d2452d_large.png",
+			"category" : "Faces",
+			"id" : 109
+	},
+	"emoji110" : {
+		"name" : "Upside-Down_Face",
+			"location" : "Emoji/Faces/Upside-Down_Face_Emoji_4dbbbd80-eb60-4c91-9642-83368692e361_large.png",
+			"category" : "Faces",
+			"id" : 110
+	},
+	"emoji111" : {
+		"name" : "Very_Angry",
+			"location" : "Emoji/Faces/Very_Angry_Emoji_7f7bb8df-d9dc-4cda-b79f-5453e764d4ea_large.png",
+			"category" : "Faces",
+			"id" : 111
+	},
+	"emoji112" : {
+		"name" : "Very_Mad",
+			"location" : "Emoji/Faces/Very_Mad_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 112
+	},
+	"emoji113" : {
+		"name" : "Very_sad_emoji_icon_png_large.png",
+			"location" : "Emoji/Faces/Very_sad_emoji_icon_png_large.png",
+			"category" : "Faces",
+			"id" : 113
+	},
+	"emoji114" : {
+		"name" : "Weary_Face",
+			"location" : "Emoji/Faces/Weary_Face_Emoji_91a42b7e-9581-4fa5-8de4-57481355d505_large.png",
+			"category" : "Faces",
+			"id" : 114
+	},
+	"emoji115" : {
+		"name" : "Wink",
+			"location" : "Emoji/Faces/Wink_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 115
+	},
+	"emoji116" : {
+		"name" : "Worried_Face",
+			"location" : "Emoji/Faces/Worried_Face_Emoji_12fa1bbf-0297-4818-8298-d6c1a588c341_large.png",
+			"category" : "Faces",
+			"id" : 116
+	},
+	"emoji117" : {
+		"name" : "Zipper-Mouth_Face",
+			"location" : "Emoji/Faces/Zipper-Mouth_Face_Emoji_large.png",
+			"category" : "Faces",
+			"id" : 117
+	},
+	"emoji118" : {
+		"name" : "Banana",
+			"location" : "Emoji/Food/Banana_Emoji_large.png",
+			"category" : "Food",
+			"id" : 118
+	},
+	"emoji119" : {
+		"name" : "Beer",
+			"location" : "Emoji/Food/Beer_Emoji_large.png",
+			"category" : "Food",
+			"id" : 119
+	},
+	"emoji120" : {
+		"name" : "Birthday_Cake",
+			"location" : "Emoji/Food/Birthday_Cake_Emoji_large.png",
+			"category" : "Food",
+			"id" : 120
+	},
+	"emoji121" : {
+		"name" : "Cheese_Burger",
+			"location" : "Emoji/Food/Cheese_Burger_Emoji_large.png",
+			"category" : "Food",
+			"id" : 121
+	},
+	"emoji122" : {
+		"name" : "Cherry",
+			"location" : "Emoji/Food/Cherry_Emoji_large.png",
+			"category" : "Food",
+			"id" : 122
+	},
+	"emoji123" : {
+		"name" : "Chocolate_Bar",
+			"location" : "Emoji/Food/Chocolate_Bar_Emoji_large.png",
+			"category" : "Food",
+			"id" : 123
+	},
+	"emoji124" : {
+		"name" : "Chocolate_Chip",
+			"location" : "Emoji/Food/Chocolate_Chip_Emoji_large.png",
+			"category" : "Food",
+			"id" : 124
+	},
+	"emoji125" : {
+		"name" : "Cooking_Egg",
+			"location" : "Emoji/Food/Cooking_Egg_Emoji_large.png",
+			"category" : "Food",
+			"id" : 125
+	},
+	"emoji126" : {
+		"name" : "Dango",
+			"location" : "Emoji/Food/Dango_Emoji_large.png",
+			"category" : "Food",
+			"id" : 126
+	},
+	"emoji127" : {
+		"name" : "Donut",
+			"location" : "Emoji/Food/Donut_Emoji_large.png",
+			"category" : "Food",
+			"id" : 127
+	},
+	"emoji128" : {
+		"name" : "Eggplant",
+			"location" : "Emoji/Food/Eggplant_Emoji_large.png",
+			"category" : "Food",
+			"id" : 128
+	},
+	"emoji129" : {
+		"name" : "French_Fries",
+			"location" : "Emoji/Food/French_Fries_Emoji.png",
+			"category" : "Food",
+			"id" : 129
+	},
+	"emoji130" : {
+		"name" : "Grape",
+			"location" : "Emoji/Food/Grape_Emoji_large.png",
+			"category" : "Food",
+			"id" : 130
+	},
+	"emoji131" : {
+		"name" : "Green_Apple",
+			"location" : "Emoji/Food/Green_Apple_Emoji_large.png",
+			"category" : "Food",
+			"id" : 131
+	},
+	"emoji132" : {
+		"name" : "Honey_Pot",
+			"location" : "Emoji/Food/Honey_Pot_Emoji_large.png",
+			"category" : "Food",
+			"id" : 132
+	},
+	"emoji133" : {
+		"name" : "Hot_Coffee",
+			"location" : "Emoji/Food/Hot_Coffee_Emoji_large.png",
+			"category" : "Food",
+			"id" : 133
+	},
+	"emoji134" : {
+		"name" : "Ice_Cream",
+			"location" : "Emoji/Food/Ice_Cream_Emoji_large.png",
+			"category" : "Food",
+			"id" : 134
+	},
+	"emoji135" : {
+		"name" : "Lemon",
+			"location" : "Emoji/Food/Lemon_Emoji_large.png",
+			"category" : "Food",
+			"id" : 135
+	},
+	"emoji136" : {
+		"name" : "Lollipop_Candy",
+			"location" : "Emoji/Food/Lollipop_Candy_Emoji_large.png",
+			"category" : "Food",
+			"id" : 136
+	},
+	"emoji137" : {
+		"name" : "Margarita_Cocktail",
+			"location" : "Emoji/Food/Margarita_Cocktail_Emoji_large.png",
+			"category" : "Food",
+			"id" : 137
+	},
+	"emoji138" : {
+		"name" : "Meat_on_Bone",
+			"location" : "Emoji/Food/Meat_on_Bone_Emoji_large.png",
+			"category" : "Food",
+			"id" : 138
+	},
+	"emoji139" : {
+		"name" : "Oden",
+			"location" : "Emoji/Food/Oden_Emoji_large.png",
+			"category" : "Food",
+			"id" : 139
+	},
+	"emoji140" : {
+		"name" : "Orange",
+			"location" : "Emoji/Food/Orange_Emoji_large.png",
+			"category" : "Food",
+			"id" : 140
+	},
+	"emoji141" : {
+		"name" : "Peach",
+			"location" : "Emoji/Food/Peach_Emoji_large.png",
+			"category" : "Food",
+			"id" : 141
+	},
+	"emoji142" : {
+		"name" : "Poultry_Leg",
+			"location" : "Emoji/Food/Poultry_Leg_Emoji_large.png",
+			"category" : "Food",
+			"id" : 142
+	},
+	"emoji143" : {
+		"name" : "Red_Apple",
+			"location" : "Emoji/Food/Red_Apple_Emoji_large.png",
+			"category" : "Food",
+			"id" : 143
+	},
+	"emoji144" : {
+		"name" : "Red_Wine",
+			"location" : "Emoji/Food/Red_Wine_Emoji_large.png",
+			"category" : "Food",
+			"id" : 144
+	},
+	"emoji145" : {
+		"name" : "Roasted_Sweet_Potato",
+			"location" : "Emoji/Food/Roasted_Sweet_Potato_Emoji_large.png",
+			"category" : "Food",
+			"id" : 145
+	},
+	"emoji146" : {
+		"name" : "Sake_Bottle_and_Cup",
+			"location" : "Emoji/Food/Sake_Bottle_and_Cup_Emoji_large.png",
+			"category" : "Food",
+			"id" : 146
+	},
+	"emoji147" : {
+		"name" : "Shaved_Ice",
+			"location" : "Emoji/Food/Shaved_Ice_Emoji_large.png",
+			"category" : "Food",
+			"id" : 147
+	},
+	"emoji148" : {
+		"name" : "Slice_Of_Pizza",
+			"location" : "Emoji/Food/Slice_Of_Pizza_Emoji_large.png",
+			"category" : "Food",
+			"id" : 148
+	},
+	"emoji149" : {
+		"name" : "Soup_Without_Handle",
+			"location" : "Emoji/Food/Soup_Without_Handle_Emoji_large-1.png",
+			"category" : "Food",
+			"id" : 149
+	},
+	"emoji150" : {
+		"name" : "Strawberry_Cake",
+			"location" : "Emoji/Food/Strawberry_Cake_Emoji_large.png",
+			"category" : "Food",
+			"id" : 150
+	},
+	"emoji151" : {
+		"name" : "Sushi",
+			"location" : "Emoji/Food/Sushi_Emoji_large.png",
+			"category" : "Food",
+			"id" : 151
+	},
+	"emoji152" : {
+		"name" : "Taco",
+			"location" : "Emoji/Food/Taco_Emoji_large.png",
+			"category" : "Food",
+			"id" : 152
+	},
+	"emoji153" : {
+		"name" : "Vanila_Ice_Cream",
+			"location" : "Emoji/Food/Vanila_Ice_Cream_Emoji_large.png",
+			"category" : "Food",
+			"id" : 153
+	},
+	"emoji154" : {
+		"name" : "Watermelon",
+			"location" : "Emoji/Food/Watermelon_Emoji_large.png",
+			"category" : "Food",
+			"id" : 154
+	},
+	"emoji155" : {
+		"name" : "Bouquet",
+			"location" : "Emoji/Nature/Bouquet_Emoji_PNG_large.png",
+			"category" : "Nature",
+			"id" : 155
+	},
+	"emoji156" : {
+		"name" : "Cactus",
+			"location" : "Emoji/Nature/Cactus_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 156
+	},
+	"emoji157" : {
+		"name" : "Cherry_Blossom",
+			"location" : "Emoji/Nature/Cherry_Blossom_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 157
+	},
+	"emoji158" : {
+		"name" : "Cyclone_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Cyclone_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 158
+	},
+	"emoji159" : {
+		"name" : "Dark_Blue_Moon",
+			"location" : "Emoji/Nature/Dark_Blue_Moon_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 159
+	},
+	"emoji160" : {
+		"name" : "Dark_moon_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Dark_moon_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 160
+	},
+	"emoji161" : {
+		"name" : "Earth_Globe_Americas",
+			"location" : "Emoji/Nature/Earth_Globe_Americas_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 161
+	},
+	"emoji162" : {
+		"name" : "Emoji_Blossom_Yello_large.png",
+			"location" : "Emoji/Nature/Emoji_Blossom_Yello_large.png",
+			"category" : "Nature",
+			"id" : 162
+	},
+	"emoji163" : {
+		"name" : "Emoji_Cloud_PNG_large.png",
+			"location" : "Emoji/Nature/Emoji_Cloud_PNG_large.png",
+			"category" : "Nature",
+			"id" : 163
+	},
+	"emoji164" : {
+		"name" : "Emoji_Earth_Globe_Asia_large.png",
+			"location" : "Emoji/Nature/Emoji_Earth_Globe_Asia_large.png",
+			"category" : "Nature",
+			"id" : 164
+	},
+	"emoji165" : {
+		"name" : "Emoji_Earth_Globe_Europe_Africa_large.png",
+			"location" : "Emoji/Nature/Emoji_Earth_Globe_Europe_Africa_large.png",
+			"category" : "Nature",
+			"id" : 165
+	},
+	"emoji166" : {
+		"name" : "Emoji_Fallen_Leaf_large.png",
+			"location" : "Emoji/Nature/Emoji_Fallen_Leaf_large.png",
+			"category" : "Nature",
+			"id" : 166
+	},
+	"emoji167" : {
+		"name" : "EMOJI_FIRST_QUARTER_MOON_WITH_FACE_large.png",
+			"location" : "Emoji/Nature/EMOJI_FIRST_QUARTER_MOON_WITH_FACE_large.png",
+			"category" : "Nature",
+			"id" : 167
+	},
+	"emoji168" : {
+		"name" : "Emoji_Foggy_PNG_large.png",
+			"location" : "Emoji/Nature/Emoji_Foggy_PNG_large.png",
+			"category" : "Nature",
+			"id" : 168
+	},
+	"emoji169" : {
+		"name" : "Emoji_Herb_Image_large.png",
+			"location" : "Emoji/Nature/Emoji_Herb_Image_large.png",
+			"category" : "Nature",
+			"id" : 169
+	},
+	"emoji170" : {
+		"name" : "EMOJI_LAST_QUARTER_MOON_WITH_FACE_large.png",
+			"location" : "Emoji/Nature/EMOJI_LAST_QUARTER_MOON_WITH_FACE_large.png",
+			"category" : "Nature",
+			"id" : 170
+	},
+	"emoji171" : {
+		"name" : "Emoji_Leaf_Falling_PNG_large.png",
+			"location" : "Emoji/Nature/Emoji_Leaf_Falling_PNG_large.png",
+			"category" : "Nature",
+			"id" : 171
+	},
+	"emoji172" : {
+		"name" : "Emoji_Maple_Leaf_large.png",
+			"location" : "Emoji/Nature/Emoji_Maple_Leaf_large.png",
+			"category" : "Nature",
+			"id" : 172
+	},
+	"emoji173" : {
+		"name" : "Emoji_Milky_Way_PNG_large.png",
+			"location" : "Emoji/Nature/Emoji_Milky_Way_PNG_large.png",
+			"category" : "Nature",
+			"id" : 173
+	},
+	"emoji174" : {
+		"name" : "Emoji_Of_Rice_Image_large.png",
+			"location" : "Emoji/Nature/Emoji_Of_Rice_Image_large.png",
+			"category" : "Nature",
+			"id" : 174
+	},
+	"emoji175" : {
+		"name" : "Emoji_Snowflake_Download_large.png",
+			"location" : "Emoji/Nature/Emoji_Snowflake_Download_large.png",
+			"category" : "Nature",
+			"id" : 175
+	},
+	"emoji176" : {
+		"name" : "Emoji_Sunflower_Free_large.png",
+			"location" : "Emoji/Nature/Emoji_Sunflower_Free_large.png",
+			"category" : "Nature",
+			"id" : 176
+	},
+	"emoji177" : {
+		"name" : "Emoji_Sun_Behind_Cloud",
+			"location" : "Emoji/Nature/Emoji_Sun_Behind_Cloud_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 177
+	},
+	"emoji178" : {
+		"name" : "Emoji_Volcano_image_large.png",
+			"location" : "Emoji/Nature/Emoji_Volcano_image_large.png",
+			"category" : "Nature",
+			"id" : 178
+	},
+	"emoji179" : {
+		"name" : "Fire",
+			"location" : "Emoji/Nature/Fire_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 179
+	},
+	"emoji180" : {
+		"name" : "First_quarter_moon_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/First_quarter_moon_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 180
+	},
+	"emoji181" : {
+		"name" : "Full_moon_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Full_moon_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 181
+	},
+	"emoji182" : {
+		"name" : "Globe_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Globe_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 182
+	},
+	"emoji183" : {
+		"name" : "Hibiscus",
+			"location" : "Emoji/Nature/Hibiscus_Emoji_Flower_PNG_large.png",
+			"category" : "Nature",
+			"id" : 183
+	},
+	"emoji184" : {
+		"name" : "Last_quarter_moon_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Last_quarter_moon_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 184
+	},
+	"emoji185" : {
+		"name" : "Moon_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Moon_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 185
+	},
+	"emoji186" : {
+		"name" : "Palm_Tree",
+			"location" : "Emoji/Nature/Palm_Tree_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 186
+	},
+	"emoji187" : {
+		"name" : "Rainbow_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Rainbow_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 187
+	},
+	"emoji188" : {
+		"name" : "Rose",
+			"location" : "Emoji/Nature/Rose_Emoji_Download_PNG_large.png",
+			"category" : "Nature",
+			"id" : 188
+	},
+	"emoji189" : {
+		"name" : "Seedling_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Seedling_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 189
+	},
+	"emoji190" : {
+		"name" : "Snowman",
+			"location" : "Emoji/Nature/Snowman_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 190
+	},
+	"emoji191" : {
+		"name" : "Star",
+			"location" : "Emoji/Nature/Star_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 191
+	},
+	"emoji192" : {
+		"name" : "The_Sun",
+			"location" : "Emoji/Nature/The_Sun_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 192
+	},
+	"emoji193" : {
+		"name" : "The_Sun_Face",
+			"location" : "Emoji/Nature/The_Sun_Face_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 193
+	},
+	"emoji194" : {
+		"name" : "Umbrella_Rain_Drops",
+			"location" : "Emoji/Nature/Umbrella_Rain_Drops_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 194
+	},
+	"emoji195" : {
+		"name" : "voltage_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/voltage_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 195
+	},
+	"emoji196" : {
+		"name" : "Waning_crescent_moon_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Waning_crescent_moon_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 196
+	},
+	"emoji197" : {
+		"name" : "Water_wave_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Water_wave_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 197
+	},
+	"emoji198" : {
+		"name" : "Waxing_crescent_moon_emoji_icon_png_large.png",
+			"location" : "Emoji/Nature/Waxing_crescent_moon_emoji_icon_png_large.png",
+			"category" : "Nature",
+			"id" : 198
+	},
+	"emoji199" : {
+		"name" : "Yellow_Moon",
+			"location" : "Emoji/Nature/Yellow_Moon_Emoji_large.png",
+			"category" : "Nature",
+			"id" : 199
+	},
+	"emoji200" : {
+		"name" : "100",
+			"location" : "Emoji/Objects/100_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 200
+	},
+	"emoji201" : {
+		"name" : "Airplane",
+			"location" : "Emoji/Objects/Airplane_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 201
+	},
+	"emoji202" : {
+		"name" : "Athletic_Shoe",
+			"location" : "Emoji/Objects/Athletic_Shoe_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 202
+	},
+	"emoji203" : {
+		"name" : "Bicycle",
+			"location" : "Emoji/Objects/Bicycle_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 203
+	},
+	"emoji204" : {
+		"name" : "Bikini",
+			"location" : "Emoji/Objects/Bikini_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 204
+	},
+	"emoji205" : {
+		"name" : "Briefcase",
+			"location" : "Emoji/Objects/Briefcase_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 205
+	},
+	"emoji206" : {
+		"name" : "Business_Shirt_With_Tie",
+			"location" : "Emoji/Objects/Business_Shirt_With_Tie_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 206
+	},
+	"emoji207" : {
+		"name" : "Coin_Purse",
+			"location" : "Emoji/Objects/Coin_Purse_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 207
+	},
+	"emoji208" : {
+		"name" : "Crystal_Magic_Ball_large.png",
+			"location" : "Emoji/Objects/Crystal_Magic_Ball_large.png",
+			"category" : "Objects",
+			"id" : 208
+	},
+	"emoji209" : {
+		"name" : "Delivery_Truck",
+			"location" : "Emoji/Objects/Delivery_Truck_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 209
+	},
+	"emoji210" : {
+		"name" : "Diamond",
+			"location" : "Emoji/Objects/Diamond_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 210
+	},
+	"emoji211" : {
+		"name" : "Diamond_Ring",
+			"location" : "Emoji/Objects/Diamond_Ring_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 211
+	},
+	"emoji212" : {
+		"name" : "Footprints",
+			"location" : "Emoji/Objects/Footprints_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 212
+	},
+	"emoji213" : {
+		"name" : "Gift_Present",
+			"location" : "Emoji/Objects/Gift_Present_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 213
+	},
+	"emoji214" : {
+		"name" : "Glasses",
+			"location" : "Emoji/Objects/Glasses_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 214
+	},
+	"emoji215" : {
+		"name" : "Graduation_Cap",
+			"location" : "Emoji/Objects/Graduation_Cap_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 215
+	},
+	"emoji216" : {
+		"name" : "Green_Dress",
+			"location" : "Emoji/Objects/Green_Dress_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 216
+	},
+	"emoji217" : {
+		"name" : "Handbag",
+			"location" : "Emoji/Objects/Handbag_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 217
+	},
+	"emoji218" : {
+		"name" : "HIgh_Heel_Shoe",
+			"location" : "Emoji/Objects/HIgh_Heel_Shoe_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 218
+	},
+	"emoji219" : {
+		"name" : "House",
+			"location" : "Emoji/Objects/House_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 219
+	},
+	"emoji220" : {
+		"name" : "House",
+			"location" : "Emoji/Objects/House_Emoji_With_Tree_large.png",
+			"category" : "Objects",
+			"id" : 220
+	},
+	"emoji221" : {
+		"name" : "Jeans",
+			"location" : "Emoji/Objects/Jeans_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 221
+	},
+	"emoji222" : {
+		"name" : "Kimono",
+			"location" : "Emoji/Objects/Kimono_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 222
+	},
+	"emoji223" : {
+		"name" : "Kiss_Mark",
+			"location" : "Emoji/Objects/Kiss_Mark_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 223
+	},
+	"emoji224" : {
+		"name" : "Lipstick",
+			"location" : "Emoji/Objects/Lipstick_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 224
+	},
+	"emoji225" : {
+		"name" : "Lips",
+			"location" : "Emoji/Objects/Lips_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 225
+	},
+	"emoji226" : {
+		"name" : "Love_Letter",
+			"location" : "Emoji/Objects/Love_Letter_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 226
+	},
+	"emoji227" : {
+		"name" : "Mans_Shoe",
+			"location" : "Emoji/Objects/Mans_Shoe_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 227
+	},
+	"emoji228" : {
+		"name" : "Money_Bag",
+			"location" : "Emoji/Objects/Money_Bag_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 228
+	},
+	"emoji229" : {
+		"name" : "Money_with_Wings",
+			"location" : "Emoji/Objects/Money_with_Wings_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 229
+	},
+	"emoji230" : {
+		"name" : "Musical_Keyboard",
+			"location" : "Emoji/Objects/Musical_Keyboard_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 230
+	},
+	"emoji231" : {
+		"name" : "Musical_Notes",
+			"location" : "Emoji/Objects/Musical_Notes_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 231
+	},
+	"emoji232" : {
+		"name" : "Notebook",
+			"location" : "Emoji/Objects/Notebook_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 232
+	},
+	"emoji233" : {
+		"name" : "Open_Book",
+			"location" : "Emoji/Objects/Open_Book_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 233
+	},
+	"emoji234" : {
+		"name" : "Package_Box",
+			"location" : "Emoji/Objects/Package_Box_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 234
+	},
+	"emoji235" : {
+		"name" : "Paw_emoji_icon_png_large.png",
+			"location" : "Emoji/Objects/Paw_emoji_icon_png_large.png",
+			"category" : "Objects",
+			"id" : 235
+	},
+	"emoji236" : {
+		"name" : "Pencil",
+			"location" : "Emoji/Objects/Pencil_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 236
+	},
+	"emoji237" : {
+		"name" : "Picnic_Hat",
+			"location" : "Emoji/Objects/Picnic_Hat_Emoji_large-1.png",
+			"category" : "Objects",
+			"id" : 237
+	},
+	"emoji238" : {
+		"name" : "Pouch",
+			"location" : "Emoji/Objects/Pouch_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 238
+	},
+	"emoji239" : {
+		"name" : "Queen_s_Crown",
+			"location" : "Emoji/Objects/Queen_s_Crown_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 239
+	},
+	"emoji240" : {
+		"name" : "Red_Flag",
+			"location" : "Emoji/Objects/Red_Flag_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 240
+	},
+	"emoji241" : {
+		"name" : "Red_Pin",
+			"location" : "Emoji/Objects/Red_Pin_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 241
+	},
+	"emoji242" : {
+		"name" : "Rocket",
+			"location" : "Emoji/Objects/Rocket_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 242
+	},
+	"emoji243" : {
+		"name" : "Running_Shirt_With_Sash",
+			"location" : "Emoji/Objects/Running_Shirt_With_Sash_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 243
+	},
+	"emoji244" : {
+		"name" : "Sail_Boat",
+			"location" : "Emoji/Objects/Sail_Boat_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 244
+	},
+	"emoji245" : {
+		"name" : "Speech_Bubble",
+			"location" : "Emoji/Objects/Speech_Bubble_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 245
+	},
+	"emoji246" : {
+		"name" : "Sweat_Water",
+			"location" : "Emoji/Objects/Sweat_Water_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 246
+	},
+	"emoji247" : {
+		"name" : "T-Shirt",
+			"location" : "Emoji/Objects/T-Shirt_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 247
+	},
+	"emoji248" : {
+		"name" : "Thought_Speech_Bubble",
+			"location" : "Emoji/Objects/Thought_Speech_Bubble_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 248
+	},
+	"emoji249" : {
+		"name" : "Top_Magic_Hat",
+			"location" : "Emoji/Objects/Top_Magic_Hat_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 249
+	},
+	"emoji250" : {
+		"name" : "Umbrella",
+			"location" : "Emoji/Objects/Umbrella_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 250
+	},
+	"emoji251" : {
+		"name" : "Womans_Boots",
+			"location" : "Emoji/Objects/Womans_Boots_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 251
+	},
+	"emoji252" : {
+		"name" : "Womans_Clothes",
+			"location" : "Emoji/Objects/Womans_Clothes_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 252
+	},
+	"emoji253" : {
+		"name" : "Womans_Sandal",
+			"location" : "Emoji/Objects/Womans_Sandal_Emoji_large.png",
+			"category" : "Objects",
+			"id" : 253
+	},
+	"emoji254" : {
+		"name" : "Beating_Pink_Heart",
+			"location" : "Emoji/People/Beating_Pink_Heart_Emoji_large.png",
+			"category" : "People",
+			"id" : 254
+	},
+	"emoji255" : {
+		"name" : "Bride_With_Veil_Woman",
+			"location" : "Emoji/People/Bride_With_Veil_Woman_Emoji_large.png",
+			"category" : "People",
+			"id" : 255
+	},
+	"emoji256" : {
+		"name" : "Broken_Red_Heart",
+			"location" : "Emoji/People/Broken_Red_Heart_Emoji_large.png",
+			"category" : "People",
+			"id" : 256
+	},
+	"emoji257" : {
+		"name" : "Clapping_Hands",
+			"location" : "Emoji/People/Clapping_Hands_Emoji_large.png",
+			"category" : "People",
+			"id" : 257
+	},
+	"emoji258" : {
+		"name" : "Dancer_With_Red_Dress",
+			"location" : "Emoji/People/Dancer_With_Red_Dress_Emoji_large.png",
+			"category" : "People",
+			"id" : 258
+	},
+	"emoji259" : {
+		"name" : "Eyes",
+			"location" : "Emoji/People/Eyes_Emoji_large.png",
+			"category" : "People",
+			"id" : 259
+	},
+	"emoji260" : {
+		"name" : "Fist_Hand",
+			"location" : "Emoji/People/Fist_Hand_Emoji_large.png",
+			"category" : "People",
+			"id" : 260
+	},
+	"emoji261" : {
+		"name" : "Flexing_Muscles",
+			"location" : "Emoji/People/Flexing_Muscles_Emoji_large.png",
+			"category" : "People",
+			"id" : 261
+	},
+	"emoji262" : {
+		"name" : "Growing_Pink_Heart",
+			"location" : "Emoji/People/Growing_Pink_Heart_Emoji_large.png",
+			"category" : "People",
+			"id" : 262
+	},
+	"emoji263" : {
+		"name" : "High_Five",
+			"location" : "Emoji/People/High_Five_Emoji_large.png",
+			"category" : "People",
+			"id" : 263
+	},
+	"emoji264" : {
+		"name" : "Man_Bowing",
+			"location" : "Emoji/People/Man_Bowing_Emoji_large.png",
+			"category" : "People",
+			"id" : 264
+	},
+	"emoji265" : {
+		"name" : "Man_Rowing",
+			"location" : "Emoji/People/Man_Rowing_Emoji_large.png",
+			"category" : "People",
+			"id" : 265
+	},
+	"emoji266" : {
+		"name" : "Man_Running",
+			"location" : "Emoji/People/Man_Running_Emoji_large.png",
+			"category" : "People",
+			"id" : 266
+	},
+	"emoji267" : {
+		"name" : "Man_Walking",
+			"location" : "Emoji/People/Man_Walking_Emoji_large.png",
+			"category" : "People",
+			"id" : 267
+	},
+	"emoji268" : {
+		"name" : "Middle_Finger",
+			"location" : "Emoji/People/Middle_Finger_Emoji_894a7ecd-277f-479e-9967-44d20813a2d6_large.png",
+			"category" : "People",
+			"id" : 268
+	},
+	"emoji269" : {
+		"name" : "Nose",
+			"location" : "Emoji/People/Nose_Emoji_large.png",
+			"category" : "People",
+			"id" : 269
+	},
+	"emoji270" : {
+		"name" : "Ok_Hand_Sign",
+			"location" : "Emoji/People/Ok_Hand_Sign_Emoji_large.png",
+			"category" : "People",
+			"id" : 270
+	},
+	"emoji271" : {
+		"name" : "One_Ear",
+			"location" : "Emoji/People/One_Ear_Emoji_large.png",
+			"category" : "People",
+			"id" : 271
+	},
+	"emoji272" : {
+		"name" : "Part_Between_Middle_and_Ring_Fingers",
+			"location" : "Emoji/People/Part_Between_Middle_and_Ring_Fingers_Emoji_b2ab87ed-54a1-42b9-b123-38c51de18907_large.png",
+			"category" : "People",
+			"id" : 272
+	},
+	"emoji273" : {
+		"name" : "Pink_Heart_With_Arrow",
+			"location" : "Emoji/People/Pink_Heart_With_Arrow_Emoji_large.png",
+			"category" : "People",
+			"id" : 273
+	},
+	"emoji274" : {
+		"name" : "Pink_Heart_With_Ribbon",
+			"location" : "Emoji/People/Pink_Heart_With_Ribbon_Emoji_large.png",
+			"category" : "People",
+			"id" : 274
+	},
+	"emoji275" : {
+		"name" : "Pink_Nail_Polish",
+			"location" : "Emoji/People/Pink_Nail_Polish_Emoji_large.png",
+			"category" : "People",
+			"id" : 275
+	},
+	"emoji276" : {
+		"name" : "Praying",
+			"location" : "Emoji/People/Praying_Emoji_large.png",
+			"category" : "People",
+			"id" : 276
+	},
+	"emoji277" : {
+		"name" : "Raised_Fist",
+			"location" : "Emoji/People/Raised_Fist_Emoji_large.png",
+			"category" : "People",
+			"id" : 277
+	},
+	"emoji278" : {
+		"name" : "Raised_Hand",
+			"location" : "Emoji/People/Raised_Hand_Emoji_large.png",
+			"category" : "People",
+			"id" : 278
+	},
+	"emoji279" : {
+		"name" : "Revolving_Pink_Hearts",
+			"location" : "Emoji/People/Revolving_Pink_Hearts_Emoji_large.png",
+			"category" : "People",
+			"id" : 279
+	},
+	"emoji280" : {
+		"name" : "Sign_of_the_Horns",
+			"location" : "Emoji/People/Sign_of_the_Horns_Emoji_large.png",
+			"category" : "People",
+			"id" : 280
+	},
+	"emoji281" : {
+		"name" : "Sparkling_Pink_Heart",
+			"location" : "Emoji/People/Sparkling_Pink_Heart_Emoji_large.png",
+			"category" : "People",
+			"id" : 281
+	},
+	"emoji282" : {
+		"name" : "Thumbs_Up_Hand_Sign",
+			"location" : "Emoji/People/Thumbs_Up_Hand_Sign_Emoji_large.png",
+			"category" : "People",
+			"id" : 282
+	},
+	"emoji283" : {
+		"name" : "Tongue",
+			"location" : "Emoji/People/Tongue_Emoji_large.png",
+			"category" : "People",
+			"id" : 283
+	},
+	"emoji284" : {
+		"name" : "Two_Pink_Hearts",
+			"location" : "Emoji/People/Two_Pink_Hearts_Emoji_large.png",
+			"category" : "People",
+			"id" : 284
+	},
+	"emoji285" : {
+		"name" : "Unknown_Man",
+			"location" : "Emoji/People/Unknown_Man_Emoji_large.png",
+			"category" : "People",
+			"id" : 285
+	},
+	"emoji286" : {
+		"name" : "Up_Pointing_Hand",
+			"location" : "Emoji/People/Up_Pointing_Hand_Emoji_large.png",
+			"category" : "People",
+			"id" : 286
+	},
+	"emoji287" : {
+		"name" : "Victory_Hand",
+			"location" : "Emoji/People/Victory_Hand_Emoji_large.png",
+			"category" : "People",
+			"id" : 287
+	},
+	"emoji288" : {
+		"name" : "Virus",
+			"location" : "Emoji/People/Virus_Emoji_large.png",
+			"category" : "People",
+			"id" : 288
+	},
+	"emoji289" : {
+		"name" : "Waving_Hand_Sign",
+			"location" : "Emoji/People/Waving_Hand_Sign_Emoji_large.png",
+			"category" : "People",
+			"id" : 289
+	},
+	"emoji290" : {
+		"name" : "White_Baby_Angel",
+			"location" : "Emoji/People/White_Baby_Angel_Emoji_large.png",
+			"category" : "People",
+			"id" : 290
+	},
+	"emoji291" : {
+		"name" : "White_Baby",
+			"location" : "Emoji/People/White_Baby_Emoji_large.png",
+			"category" : "People",
+			"id" : 291
+	},
+	"emoji292" : {
+		"name" : "White_Grandma",
+			"location" : "Emoji/People/White_Grandma_Emoji_large.png",
+			"category" : "People",
+			"id" : 292
+	},
+	"emoji293" : {
+		"name" : "White_Grandpa",
+			"location" : "Emoji/People/White_Grandpa_Emoji_large.png",
+			"category" : "People",
+			"id" : 293
+	},
+	"emoji294" : {
+		"name" : "White_Open_Hands_Sign",
+			"location" : "Emoji/People/White_Open_Hands_Sign_Emoji_large.png",
+			"category" : "People",
+			"id" : 294
+	},
+	"emoji295" : {
+		"name" : "White_Santa_Claus",
+			"location" : "Emoji/People/White_Santa_Claus_Emoji_large.png",
+			"category" : "People",
+			"id" : 295
+	},
+	"emoji296" : {
+		"name" : "White_Thumbs_Down_Sign",
+			"location" : "Emoji/People/White_Thumbs_Down_Sign_Emoji_large.png",
+			"category" : "People",
+			"id" : 296
+	},
+	"emoji297" : {
+		"name" : "White_Up_Pointing_Backhand_Index",
+			"location" : "Emoji/People/White_Up_Pointing_Backhand_Index_Emoji_large.png",
+			"category" : "People",
+			"id" : 297
+	},
+	"emoji298" : {
+		"name" : "Woman_Face_Massage",
+			"location" : "Emoji/People/Woman_Face_Massage_Emoji_large.png",
+			"category" : "People",
+			"id" : 298
+	},
+	"emoji299" : {
+		"name" : "Woman_Frowning",
+			"location" : "Emoji/People/Woman_Frowning_Emoji_large.png",
+			"category" : "People",
+			"id" : 299
+	},
+	"emoji300" : {
+		"name" : "Woman_Getting_Haircut",
+			"location" : "Emoji/People/Woman_Getting_Haircut_Emoji_large.png",
+			"category" : "People",
+			"id" : 300
+	},
+	"emoji301" : {
+		"name" : "Woman_Hand_Gesture",
+			"location" : "Emoji/People/Woman_Hand_Gesture_Emoji_large.png",
+			"category" : "People",
+			"id" : 301
+	},
+	"emoji302" : {
+		"name" : "Woman_Saying_Hello",
+			"location" : "Emoji/People/Woman_Saying_Hello_Emoji_large.png",
+			"category" : "People",
+			"id" : 302
+	},
+	"emoji303" : {
+		"name" : "Woman_Saying_No",
+			"location" : "Emoji/People/Woman_Saying_No_Emoji_large.png",
+			"category" : "People",
+			"id" : 303
+	},
+	"emoji304" : {
+		"name" : "Woman_Saying_Yes",
+			"location" : "Emoji/People/Woman_Saying_Yes_Emoji_large.png",
+			"category" : "People",
+			"id" : 304
+	},
+	"emoji305" : {
+		"name" : "Woman_Wondering_Face",
+			"location" : "Emoji/People/Woman_Wondering_Face_Emoji_large.png",
+			"category" : "People",
+			"id" : 305
+	},
+	"emoji306" : {
+		"name" : "Women_With_Bunny",
+			"location" : "Emoji/People/Women_With_Bunny_Emoji_large.png",
+			"category" : "People",
+			"id" : 306
+	}
+}
