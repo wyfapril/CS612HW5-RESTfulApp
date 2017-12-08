@@ -10,6 +10,6 @@ Our "Emoji Hub" web app runs in Docker container, using Node.js to feed json dat
   
   -> change route to "localhost:8081/allemojis" to view all json data;
   
-  -> edit route to "localhost:8081/emoji/" + any number from 1-306 to view a large emoji picture by id.
+  -> edit route to "localhost:8081/emoji/" + any number from 1-306 (e.g. localhost:8081/emoji/71) to view a large emoji picture by id.
   
   (Dockerfile contains "RUN npm install", so npm modules are automatically installed when user runs the command above. server.js is the enter point for this app.)
