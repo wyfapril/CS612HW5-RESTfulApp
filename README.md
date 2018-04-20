@@ -1,10 +1,16 @@
-# CS612HW5-RESTfulApp
+Emoji Hub is a web app that enables users to search within hundreds of emojis more efficiently. It uses Node.js to feed json data to html file.
 
-Our "Emoji Hub" web app runs in Docker container, using Node.js to feed json data to html file.
+Features:
+  Animated welcome page
+  306 emojis
+  Search by category
+  Search by id
+  Cute design
 
-  -> run "sudo docker build -t restfulapp" in terminal to build docker image for this app;
-  
-  -> run "sudo docker run -p 8081:8081 restfulapp" to fire the app;
+How to use:
+  -> download the folder to your local; 
+
+  -> run "npm start" inside the folder to fire the app in terminal;
   
   -> open browser and type "localhost:8081" in address to show index.html (have fun!);
   
@@ -12,4 +18,3 @@ Our "Emoji Hub" web app runs in Docker container, using Node.js to feed json dat
   
   -> edit route to "localhost:8081/emoji/" + any number from 1-306 (e.g. localhost:8081/emoji/71) to view a large emoji picture by id.
   
-  (Dockerfile contains "RUN npm install", so npm modules are automatically installed when user runs the command above. server.js is the enter point for this app.)
